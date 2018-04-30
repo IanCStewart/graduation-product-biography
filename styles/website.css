@@ -94,3 +94,7 @@
   background: none;
   color: #4B77BE;
 }
+
+#book-search-input {
+  background: inherit;
+}
