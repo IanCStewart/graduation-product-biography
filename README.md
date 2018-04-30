@@ -5,7 +5,7 @@ Digitale collectie van alle documenten voor mijn Afstudeer Project.
 |-|-|
 | Naam                | Ian Stewart |
 | Studentnummer       | 500715564   |
-| Opleiding           | CMD | HvA   |
+| Opleiding           | CMD - HvA   |
 
 |||
 |-|-|
