@@ -1,9 +1,8 @@
 # Summary
 
-## Overview
+* [Meta](README.md)
 
-* [My Awesome API](README.md)
+--
 
-## Methods
-
-* [Defining Methods](methods.md)
+* [Download](misc/DOWNLOAD.md)
+* [Bibliografie](misc/LITERATURE.md)

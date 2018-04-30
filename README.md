@@ -1,3 +1,21 @@
-# My Awesome API
+# Product Biografie
+Digitale collectie van alle documenten voor mijn Afstudeer Project.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+|-|-|
+| Naam                | Ian Stewart |
+| Studentnummer       | 500715564   |
+| Opleiding           | CMD | HvA   |
+
+|-|-|
+| Startdatum         | 05.02.2018 |
+| Eindatum           | 29.06.2018 |
+| Stagebegeleider    | H. Konickx |
+| Bedrijf            | Club Ruis  |
+
+#### Contactgegevens Docentbegeleider:
+* Harold Konickx
+* <h.h.g.konickx@hva.nl>
+
+#### Contactgegevens Student:
+* Ian Stewart
+* <ian.c.stewart@icloud.com>
