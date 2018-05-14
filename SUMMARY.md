@@ -11,7 +11,7 @@
 
 ## 2. Design Brief & Planning
 * [Design Brief](designbrief-and-planning/design-brief.md)
-* [Planning]()
+* [Planning](designbrief-and-planning/planning.md)
 
 ## 3. Ideeën & Inzichten
 * [Requirements]()
