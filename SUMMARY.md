@@ -14,7 +14,7 @@
 * [Planning](designbrief-and-planning/planning.md)
 
 ## 3. Ideeën & Inzichten
-* [Requirements]()
+* [Requirements](ideation-and-insights/requirements.md)
 * [Inspirations]()
 * [Morphological chart]()
 
