@@ -34,4 +34,4 @@ Most of these apps have the following features:
 - User profile
 - Push notifications
 
-The images above show a more detailed illustration of these conclusions. The composed table can also be viewed in [pdf format](./content/assets/downloads/comparison-chart.pdf).
+The images above show a more detailed illustration of these conclusions. The composed table can also be viewed in [pdf format](../assets/downloads/comparison-chart.pdf).
