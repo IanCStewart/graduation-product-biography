@@ -18,7 +18,7 @@
 ## 3. Ideeën & Inzichten
 * [Requirements]()
 * [Inspirations]()
-* [Morphological chart]|()
+* [Morphological chart]()
 
 ## 4. Product Ontwikkeling
 * [Sketch dump]()
