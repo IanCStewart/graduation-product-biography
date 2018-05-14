@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Graduation Project
+Copyright (c) 2018 Ian Stewart
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

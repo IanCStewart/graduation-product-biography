@@ -16,7 +16,7 @@ Digitale collectie van alle documenten voor mijn Afstudeer Project.
 
 #### Contactgegevens Docentbegeleider:
 * Harold Konickx
-* [h.h.g.konickx@hva.nl>](h.h.g.konickx@hva.nl)
+* [h.h.g.konickx@hva.nl](h.h.g.konickx@hva.nl)
 
 #### Contactgegevens Student:
 * Ian Stewart
