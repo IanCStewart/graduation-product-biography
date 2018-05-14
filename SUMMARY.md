@@ -7,7 +7,7 @@
 ## 1. Onderzoek & Inspiratie
 * [Doelgroep onderzoek](research-and-inspiration/focus-group-research.md)
 * [Competitive analysis](research-and-inspiration/competitive-analysis.md)
-* [Customer journey map]()
+* [Customer journey map](research-and-inspiration/customer-journey.md)
 
 ## 2. Design Brief & Planning
 * [Design Brief v0.9]()
