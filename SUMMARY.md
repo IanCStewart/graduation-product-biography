@@ -10,9 +10,7 @@
 * [Customer journey map](research-and-inspiration/customer-journey.md)
 
 ## 2. Design Brief & Planning
-* [Design Brief v0.9]()
-* [Design Brief v1.0]()
-* [Design Brief v1.1]()
+* [Design Brief](designbrief-and-planning/design-brief.md)
 * [Planning]()
 
 ## 3. Ideeën & Inzichten
