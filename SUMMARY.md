@@ -5,7 +5,7 @@
 ---
 
 ## 1. Onderzoek & Inspiratie
-* [Doelgroep interviews]()
+* [Doelgroep onderzoek](./research-and-inspiration/focus-group-research.md)
 * [Competitive analysis]()
 * [Customer journey map]()
 
