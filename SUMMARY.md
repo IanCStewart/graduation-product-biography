@@ -24,7 +24,7 @@
 * [HiFi Prototype v1]()
 
 ## 5. Miscellaneous
-* [Planning workshop]()
+* [Planning workshop](misc/planning-workshop.md)
 * [Design Brief workshop]()
 * [Storyboard (Project dag des oordeels)]()
 
