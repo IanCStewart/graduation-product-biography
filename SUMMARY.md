@@ -1,6 +1,6 @@
 # Summary
 
-* [Meta](README.md)
+* [Document Gegevens](README.md)
 
 ---
 
