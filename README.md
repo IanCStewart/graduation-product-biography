@@ -1,7 +1,7 @@
 # Product Biografie
 Collectie van documenten en onderzoeken voor Club Ruis Loyalty app.
 
-#### Docentbegeleider:
+#### Docent:
 * Harold Konickx
 * [h.h.g.konickx@hva.nl](h.h.g.konickx@hva.nl)
 
