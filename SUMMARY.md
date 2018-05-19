@@ -31,7 +31,7 @@
 
 ---
 
-* _Miscellaneous_
+* Miscellaneous
   * [Planning workshop](misc/planning-workshop.md)
   * [Design Brief workshop](misc/designbrief-workshop.md)
   * [Storyboard (Project dag des oordeels)](misc/storyboard.md)
