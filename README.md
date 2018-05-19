@@ -1,23 +1,16 @@
 # Product Biografie
-Digitale collectie van alle documenten voor mijn Afstudeer Project.
+Collectie van documenten en onderzoeken voor Club Ruis Loyalty app.
 
-|||
-|-|-|
-| Naam                | Ian Stewart |
-| Studentnummer       | 500715564   |
-| Opleiding           | CMD - HvA   |
-
-|||
-|-|-|
-| Startdatum         | 05.02.2018 |
-| Eindatum           | 29.06.2018 |
-| Stagebegeleider    | H. Konickx |
-| Bedrijf            | Club Ruis  |
-
-#### Contactgegevens Docentbegeleider:
+#### Docentbegeleider:
 * Harold Konickx
 * [h.h.g.konickx@hva.nl](h.h.g.konickx@hva.nl)
 
-#### Contactgegevens Student:
+#### Student:
 * Ian Stewart
+* 500715564
 * [ian.c.stewart@icloud.com](ian.c.stewart@icloud.com)
+
+#### Bedrijf
+* Club Ruis
+* Smedestraat 31
+* Haarlem
