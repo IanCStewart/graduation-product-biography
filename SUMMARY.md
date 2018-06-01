@@ -1,13 +1,14 @@
 # Summary
 
-* [Document Gegevens](README.md)
+* [Document Metadata](README.md)
 
 ---
 
-* Onderzoek & Inspiratie
-  * [Doelgroep onderzoek](research-and-inspiration/focus-group-research.md)
-  * [Competitive analysis](research-and-inspiration/competitive-analysis.md)
-  * [Customer journey map](research-and-inspiration/customer-journey.md)
+* Research & Inspiration
+  * [Focus Group](research-and-inspiration/focus-group-research.md)
+  * [Competitive Analysis](research-and-inspiration/competitive-analysis.md)
+  * [Customer Journey Map](research-and-inspiration/customer-journey.md)
+  * [Read Articles]()
 
 ---
 
@@ -17,17 +18,21 @@
 
 ---
 
-* Ideeën & Inzichten
+* Ideation & Insights
   * [Requirements](ideation-and-insights/requirements.md)
   * [Inspirations]()
-  * [Morphological chart]()
+  * [Morphological Chart]()
 
 ---
 
-* Product Ontwikkeling
-  * [Sketch dump]()
+* Product Development
+  * [Sketch Dump]()
   * [A/B LoFi Prototype]()
+  * [Styleguide]()
   * [HiFi Prototype v1]()
+  * [Usability Testing v1]()
+  * [HiFi Prototype v2]()
+  * [React Native Prototype]()
 
 ---
 
@@ -35,7 +40,7 @@
   * [Planning workshop](misc/planning-workshop.md)
   * [Design Brief workshop](misc/designbrief-workshop.md)
   * [Storyboard (Project dag des oordeels)](misc/storyboard.md)
-  * [Feedback frenzy](misc/feedback-frenzy.md)
+  * [Feedback Frenzy](misc/feedback-frenzy.md)
 
 ---
 

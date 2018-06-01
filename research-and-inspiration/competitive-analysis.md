@@ -14,6 +14,48 @@ I will use desk research to compose a table of competitors and their main featur
 ## Results
 The research resulted in the following graph:
 
+### Piggy
+- login with FB or email address
+- location services
+- personal QR code
+- ::physical QR tag::
+- map with participating stores
+- user profile
+- store & discount information
+- point system
+- for multiple locations
+
+### Bardoggy
+- push notifications
+- location services
+- FB login
+- list of discount deals
+- list of participating bars
+- user profile
+- discount & participant information
+- have to hand your phone to someone else
+- set timer to show deal
+- for multiple locations
+
+### Hema
+- push notifications
+- location services
+- no login/ register needed to use app (web shop part)
+- web shop
+- personal QR code
+- ::physical customer card::
+- only for Hema stores
+
+### Starbucks
+- physical card with stamps
+- stamp for every consumption
+- 9 stamps for 1 free drink
+- no need for personal information
+- only for Starbucks stores
+
+### Comparison Chart
+I combined these results in a comparison chart that can be viewed below.
+
 ![comparison chart page 1](../assets/images/comparison-chart-1.jpg)
 ![comparison chart page 2](../assets/images/comparison-chart-2.jpg)
 
