@@ -26,7 +26,7 @@ After the interviews I uncovered the following about the users:
 - Likes to get personal “messages” and deals
 - Follows hypes
 
-## User needs
+### User needs
 After the interviews I uncovered the following needs of the users:
 - Easy to use
 - Premium look and feel
