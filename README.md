@@ -1,4 +1,7 @@
 # Product Biografie
+
+![readme banner](assets/images/banner-with-meta.png)
+
 Collectie van documenten en onderzoeken voor Club Ruis Loyalty app.
 
 #### Docent:
