@@ -1,6 +1,6 @@
 # Sketch Dump
 ## Why?
-> Explore and communicate forms and ideas.
+> Explore and communicate forms and ideas. ~ HAN University of Applied Sciences - Amsterdam University of Applied Sciences (z.d.)
 
 This sketch dump was to clear my head of initial ideas. It's a first look at the flow and screens needed for this app.
 
