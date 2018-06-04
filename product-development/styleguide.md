@@ -11,8 +11,8 @@ After researching the site and the club itself, the following derived:
 ### Sketches
 I started of by a rough sketch of what would become the styleguide. Below the sketches which derived from the research:
 
-![styleguide sketch 1](../assets/images/styleguide-sketches-1.png)
-![styleguide sketch 2](../assets/images/styleguide-sketches-2.png)
+![styleguide sketch 1](../assets/images/styleguide-sketches-1.jpg)
+![styleguide sketch 2](../assets/images/styleguide-sketches-2.jpg)
 
 ### Digital Styleguide
 After i finished up on the sketches i translated this to a visual and readable styleguide.
