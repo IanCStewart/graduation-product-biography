@@ -20,7 +20,7 @@
 
 * Ideation & Insights
   * [Requirements](ideation-and-insights/requirements.md)
-  * [Inspirations]()
+  * [Inspirations](ideation-and-insights/inspiration.md)
   * [Morphological Chart]()
 
 ---
