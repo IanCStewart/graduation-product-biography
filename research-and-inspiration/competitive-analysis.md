@@ -12,7 +12,7 @@ I'm researching the competitors to get a better understanding of what features a
 I will use desk research to compose a table of competitors and their main features. The table will be filled with information about this features in the corresponding app. I will determine the benefits and/ or caveats to be able to build a clear understanding where to head from here.
 
 ## Results
-The research resulted in the following graph:
+The research resulted in the following:
 
 ### Piggy
 - login with FB or email address

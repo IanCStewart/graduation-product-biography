@@ -21,7 +21,7 @@
 * Ideation & Insights
   * [Requirements](ideation-and-insights/requirements.md)
   * [Inspirations](ideation-and-insights/inspiration.md)
-  * [Morphological Chart]()
+  * [Morphological Chart](ideation-and-insights/morphological-chart.md)
 
 ---
 
