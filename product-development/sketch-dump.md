@@ -10,6 +10,6 @@ I'll take a pen and a piece of paper and draw down my initial ideas. The resulti
 ## Result
 After converting my ideas to sketches the following dump occured:
 
-![one page of sketch dump](assets/images/sketch-dump.png)
+![one page of sketch dump](../assets/images/sketch-dump.png)
 
 The complete document can be viewed in [pdf format](../assets/downloads/sketch-dump.pdf).
