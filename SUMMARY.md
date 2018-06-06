@@ -1,47 +1,30 @@
-# Summary
+# Table of contents
 
 * [Document Metadata](README.md)
-
----
-
-* Research & Inspiration
-  * [Focus Group](research-and-inspiration/focus-group-research.md)
+* [Research & Inspiration](research-and-inspiration/README.md)
+  * [Focus Group](research-and-inspiration/focus-group.md)
   * [Competitive Analysis](research-and-inspiration/competitive-analysis.md)
-  * [Customer Journey Map](research-and-inspiration/customer-journey.md)
-  * [Read Articles]()
-
----
-
-* Design Brief & Planning
-  * [Design Brief](designbrief-and-planning/design-brief.md)
-  * [Planning](designbrief-and-planning/planning.md)
-
----
-
-* Ideation & Insights
+  * [Customer Journey Map](research-and-inspiration/customer-journey-map.md)
+  * [Read Articles](research-and-inspiration/read-articles.md)
+* [Design Brief & Planning](design-brief-and-planning/README.md)
+  * [Design Brief](design-brief-and-planning/design-brief.md)
+  * [Planning](design-brief-and-planning/planning.md)
+* [Ideation & Insights](ideation-and-insights/README.md)
   * [Requirements](ideation-and-insights/requirements.md)
-  * [Inspirations](ideation-and-insights/inspiration.md)
+  * [Inspirations](ideation-and-insights/inspirations.md)
   * [Morphological Chart](ideation-and-insights/morphological-chart.md)
-
----
-
-* Product Development
+* [Product Development](product-development/README.md)
   * [Sketch Dump](product-development/sketch-dump.md)
-  * [A/B LoFi Prototype](product-development/a-b-prototype.md)
+  * [A/B LoFi Prototype](product-development/a-b-lofi-prototype.md)
   * [Styleguide](product-development/styleguide.md)
-  * [HiFi Prototype v1](product-development/hifi-v1.md)
-  * [Usability Testing v1]()
-  * [HiFi Prototype v2](product-development/hifi-v2.md)
-  * [React Native Prototype]()
+  * [HiFi Prototype v1](product-development/hifi-prototype-v1.md)
+  * [Usability Testing v1](product-development/usability-testing-v1.md)
+  * [HiFi Prototype v2](product-development/hifi-prototype-v2.md)
+  * [React Native Prototype](product-development/react-native-prototype.md)
+* [Miscellaneous](miscellaneous/README.md)
+  * [Planning workshop](miscellaneous/planning-workshop.md)
+  * [Design Brief workshop](miscellaneous/design-brief-workshop.md)
+  * [Storyboard \(Project dag des oordeels\)](miscellaneous/storyboard-project-dag-des-oordeels.md)
+  * [Feedback Frenzy](miscellaneous/feedback-frenzy.md)
+* [Literatuur](literatuur.md)
 
----
-
-* Miscellaneous
-  * [Planning workshop](misc/planning-workshop.md)
-  * [Design Brief workshop](misc/designbrief-workshop.md)
-  * [Storyboard (Project dag des oordeels)](misc/storyboard.md)
-  * [Feedback Frenzy](misc/feedback-frenzy.md)
-
----
-
-* [Literatuur](misc/literature.md)
