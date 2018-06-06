@@ -29,7 +29,7 @@
   * [Sketch Dump](product-development/sketch-dump.md)
   * [A/B LoFi Prototype](product-development/a-b-prototype.md)
   * [Styleguide](product-development/styleguide.md)
-  * [HiFi Prototype v1]()
+  * [HiFi Prototype v1](product-development/hifi-v1.md)
   * [Usability Testing v1]()
   * [HiFi Prototype v2]()
   * [React Native Prototype]()
