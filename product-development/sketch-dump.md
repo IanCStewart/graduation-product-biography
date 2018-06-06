@@ -12,4 +12,4 @@ After converting my ideas to sketches the following dump occured:
 
 ![one page of sketch dump](../assets/images/sketch-dump.png)
 
-The complete document can be viewed in [pdf format](../assets/downloads/sketch-dump.pdf).
+The complete document can be viewed in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/sketch-dump.pdf).

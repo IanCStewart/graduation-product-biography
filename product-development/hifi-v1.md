@@ -12,7 +12,7 @@ I will convert my sketches into a visual design using [Sketch](https://www.sketc
 
 This resulted in a digital representation of all screens that would be in the app. With this result I will be able to do further usability testing to refine and improve this current design.
 
-The complete set of screens can be viewed in [pdf format](../assets/downloads/hifi-v1.pdf)
+The complete set of screens can be viewed in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/hifi-v1.pdf)
 
 ---
 

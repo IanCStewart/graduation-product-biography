@@ -18,4 +18,4 @@ The research resulted in the following:
 ![Morphological Chart Page 2](../assets/images/morphological-chart-2.jpg)
 ![Morphological Chart Page 3](../assets/images/morphological-chart-3.jpg)
 
-The images above can also be viewed in [pdf format](../assets/downloads/morphological-chart.pdf).
+The images above can also be viewed in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/morphological-chart.pdf).

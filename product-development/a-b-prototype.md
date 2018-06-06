@@ -11,7 +11,7 @@ I will create two LoFi drawings per screen. Beside these sketches I will elabora
 ### A/B Prototype drawings
 ![LoFi A/B drawing for Home screen](../assets/images/lofi-prototype.png)
 
-The complete set of drawings can be viewed in [pdf format](../assets/downloads/lofi-prototype.pdf)
+The complete set of drawings can be viewed in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/lofi-prototype.pdf)
 
 ### Chosen versions
 After reviewing the drawings with various stakeholders the following was decided.
