@@ -13,3 +13,7 @@ I will convert the results of my usability test into a better visual design, whi
 This resulted in a further iterations upon my initial design. The process impacted almost every screen that was in v1 making them more visually appealing and have a better usability.
 
 The complete set of screens can be viewed in [pdf format](../assets/downloads/hifi-v2.pdf)
+
+---
+
+> The design and Sketch prototype can be found at [Sketch.cloud](https://sketch.cloud/s/5xWvE)
