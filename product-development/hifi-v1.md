@@ -10,6 +10,6 @@ I will convert my sketches into a visual design using [Sketch](https://www.sketc
 ## Result
 ![HiFi screens v1](../assets/images/hifi-v1-banner.jpg)
 
-This resulted in a digital representation of all screens that would be in the app. With this result I will be able to do futher usability testing to refine and improve this current design.
+This resulted in a digital representation of all screens that would be in the app. With this result I will be able to do further usability testing to refine and improve this current design.
 
 The complete set of screens can be viewed in [pdf format](../assets/downloads/hifi-v1.pdf)
