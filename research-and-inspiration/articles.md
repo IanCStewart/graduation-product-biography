@@ -9,7 +9,7 @@ I will be reading post on sites like [Medium.com](https://medium.com). To make n
 ### [How We Built Our React Native App](https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac)
 ![Article 1](../assets/images/article-1.png)
 
-This article was read on the 21st of February | The full document with notes can be read in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/article-.pdf).
+> This article was read on the 21st of February | The full document with notes can be read in [pdf format](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/article-.pdf).
 
 ### [Prototyping inside Sketch 49 — Learn how it works and what you can do 🔥🎉🚀](https://medium.com/sketch-app-sources/prototyping-inside-sketch-49-how-it-works-and-what-you-can-do-7a48c829f282)
 ![Article 2](../assets/images/article-2.png)
