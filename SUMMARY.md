@@ -8,7 +8,7 @@
   * [Focus Group](research-and-inspiration/focus-group-research.md)
   * [Competitive Analysis](research-and-inspiration/competitive-analysis.md)
   * [Customer Journey Map](research-and-inspiration/customer-journey.md)
-  * [Read Articles]()
+  * [Read Articles](research-and-inspiration/articles.md)
 
 ---
 
