@@ -11,9 +11,9 @@ I’m interviewing the users to get a better understanding on who they are and w
 I will Invite representative users, ask questions about what makes them and what their needs are within these kinds of apps.
 
 ## Results
-- [Jip Blom]()
-- [Callie Hart]()
-- [Thomas Hoffman]()
+- [Jip Blom](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/interview-jip.pdf)
+- [Callie Hart](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/interview-callie.pdf)
+- [Thomas Hoffman](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/interview-thomas.pdf)
 
 ## Conclusion
 ### User group

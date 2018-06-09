@@ -39,3 +39,7 @@ After the interviews I narrowed the list down to the following:
 - Facebook login/register
 - Connection with cash register system
 - Database (user data, events, etc.)
+
+[1] Interviews with the users can be found on the [focus group page](../research-and-inspiration/focus-group-research.md).
+
+[2] Interview with the client can be found on the [client requirements page](https://iancstewart.gitbooks.io/graduation-project-productbiografie/content/assets/downloads/interview-client.pdf).
