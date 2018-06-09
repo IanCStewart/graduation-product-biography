@@ -1,4 +1,4 @@
-# HiFi Prototype v1
+# HiFi Prototype v2
 ## Why?
 > Develop, evaluate or communicate a concept or design.  ~ HAN University of Applied Sciences - Amsterdam University of Applied Sciences (z.d.)
 
