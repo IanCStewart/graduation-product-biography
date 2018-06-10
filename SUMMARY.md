@@ -30,7 +30,7 @@
   * [A/B LoFi Prototype](product-development/a-b-prototype.md)
   * [Styleguide](product-development/styleguide.md)
   * [HiFi Prototype v1](product-development/hifi-v1.md)
-  * [Usability Testing v1]()
+  * [Usability Testing v1](product-development/usability-test.md)
   * [HiFi Prototype v2](product-development/hifi-v2.md)
   * [React Native Prototype](product-development/native.md)
 
