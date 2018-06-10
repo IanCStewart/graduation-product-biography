@@ -9,7 +9,8 @@ I will test the Sketch prototype by doing expert reviews. During these reviews I
 
 ## Result
 ### Jip Blom | 26 March
-[![Usability Test | Jip](../assets/images/usability-test-1.jpg)](https://cvws.icloud-content.com/B/AeDMqS8utFwwNF2Eh1XE--zW_EIQAXuyKf9gG_6z9_qJ3bQZpdtNsXE6/Hifi-Test1_Jip-Blom.mov?o=AlZOIKBJdEDZU5pw1-MOImzStr2t6q40iPjeXVW0Mop-&v=1&x=3&a=B1II7uLRA6geJOUtkuUiTKFQKuTqAzy9QwEAAAMtvUM&e=1528665331&k=VQ2ffuwWJsaDuu_eI_DAJQ&fl=&r=ae2c1b36-5d60-46e8-b3b6-52e93d523b42-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=28&s=GQy_oPXCndd52t92qO1LGhysOLE&cd=i)
+
+[![Usability Test | Jip](../assets/images/usability-test-1.jpg)](https://www.dropbox.com/s/1yybuhgr99dz3mg/Hifi-Test1_Jip-Blom.mov?dl=0)
 
 ### Dimitri de Wit | 17 April
 1. Waarom moet je m’n geboorte datum weten? Die app op jouw telefoon is toch al genoeg bewijs?
